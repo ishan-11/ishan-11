@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm KUMAR ISHAN</h1>
 <h3 align="center">Backend Developer | Node.js Specialist | Building Scalable API Systems</h3>
 
-- 💼 I am currently working as a Software Engineer at ABC Bank, focusing on backend development and API systems.
+- 💼 I am currently working as a Software Engineer, focusing on backend development and API systems.
 
 - 🔭 I’m currently working on **advanced Node.js backend systems** including:
   - API Credential Management  
